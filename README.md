@@ -1,4 +1,4 @@
-# ![](https://github.com/NoTeefy/LiveSnips/raw/master/src/img/LiveSnips.svg "Logo LiveSnips") LiveSnips
+# <img src="./src/img/LiveSnips.svg" width="50px" height="50px"> LiveSnips
 [![GitHub license](https://img.shields.io/github/license/NoTeefy/LiveSnips?color=blue&style=flat-square)](https://github.com/NoTeefy/LiveSnips/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/NoTeefy/LiveSnips?style=flat-square)](https://github.com/NoTeefy/LiveSnips/issues) ![GitHub pull requests](https://img.shields.io/github/issues-pr/NoTeefy/LiveSnips?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/NoTeefy/LiveSnips?color=blue&style=flat-square)
 
 ## Idea & Purpose
