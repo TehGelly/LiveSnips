@@ -18,7 +18,7 @@ This list shows the current state of what snippets have been created and which o
 | <a href="src/snippets/checksum(hashing)/">Checksum (Hashing)</a>     | ![](https://github.com/NoTeefy/LiveSnips/raw/master/src/img/icons/y.png "Not implemented yet") | CptBrian, NoTeefy         |
 | <a href="#">Deepointer(s)</a>                                        | ![](https://github.com/NoTeefy/LiveSnips/raw/master/src/img/icons/n.png "Not implemented yet") | -                         |
 | <a href="#">MemoryWatcher(s)</a>                                     | ![](https://github.com/NoTeefy/LiveSnips/raw/master/src/img/icons/n.png "Not implemented yet") | -                         |
-| <a href="#">Settings</a>                                             | ![](https://github.com/NoTeefy/LiveSnips/raw/master/src/img/icons/n.png "Not implemented yet") | -                         |
+| <a href="src/snippets/settings/">Settings</a>                        | ![](https://github.com/NoTeefy/LiveSnips/raw/master/src/img/icons/y.png "Implemented")         | Gelly                     |
 | <a href="#">Debugging</a>                                            | ![](https://github.com/NoTeefy/LiveSnips/raw/master/src/img/icons/n.png "Not implemented yet") | -                         |
 | <a href="#">Custom text components</a>                               | ![](https://github.com/NoTeefy/LiveSnips/raw/master/src/img/icons/n.png "Not implemented yet") | -                         |
 | <a href="#">Multisplitter</a>                                        | ![](https://github.com/NoTeefy/LiveSnips/raw/master/src/img/icons/n.png "Not implemented yet") | -                         |
